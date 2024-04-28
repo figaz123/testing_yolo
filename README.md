@@ -11,7 +11,7 @@ OPTIONAL:
 `virtualenv env`
 
 3. log to virtual environment and install requirements library
-   `pip -r install requirements.txt`
+   `pip install -r requirements.txt`
 
 
 If it is not using virtual environment, just install requirement library
