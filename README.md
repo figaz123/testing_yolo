@@ -10,7 +10,7 @@ OPTIONAL:
 2. create virtual environment
 `virtualenv env`
 
-3. log to virtual environment and install requirements library
+3. activate your virtual environment and install requirements library
    `pip install -r requirements.txt`
 
 
@@ -20,6 +20,5 @@ If it is not using virtual environment, just install requirement library
 `pip install -r requirements.txt`
 
 2. Run the program
-
 `python implementation.py`
 
