@@ -1,6 +1,6 @@
 # testing_yolo
 
-clone this repository using `git clone https://github.com/figaz123/testing_yolo.git`
+clone this repository using `git clone https://github.com/figaz123/testing_yolo.git` or just download this repository
 
 OPTIONAL:
 
