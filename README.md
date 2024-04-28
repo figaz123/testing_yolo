@@ -14,7 +14,7 @@ OPTIONAL:
    `pip install -r requirements.txt`
 
 
-If it is not using virtual environment, just install requirement library
+If you are not using virtual environment, just install requirement library
 
 1. install requirement library
 `pip install -r requirements.txt`
